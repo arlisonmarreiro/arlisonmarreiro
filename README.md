@@ -1,7 +1,7 @@
 ## Olá! sou Arlison Marreiro
 
 - 🔭 Estou buscando experiência profissional
-- 🌱 Estou estudando HTML, CSS e JavaScript
+- 🌱 Estou estudando Python, Selenium, Appium, Behave e Jmeter
 
 <div>
   <a href="https://github.com/arlisonmarreiro">
