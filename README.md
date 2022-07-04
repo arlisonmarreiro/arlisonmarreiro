@@ -16,7 +16,6 @@
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://www.svgrepo.com/show/374049/robotframework.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://www.svgrepo.com/show/353413/appium.svg>
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://www.svgrepo.com/show/329945/apachejmeter.svg">
   </div>
   
 ##
