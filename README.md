@@ -1,7 +1,7 @@
 ## Olá! sou Arlison Marreiro
 
 - 🔭 Estou buscando experiência profissional
-- 🌱 Estou estudando Python, Selenium, Appium, Robot Framework e Jmeter
+- 🌱 Estou estudando Python, Selenium, Appium, Postman, Robot Framework e Jmeter
 
 <div>
   <a href="https://github.com/arlisonmarreiro">
@@ -13,6 +13,7 @@
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   </div>
   
 ##
