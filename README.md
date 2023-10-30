@@ -1,7 +1,6 @@
 ## Olá! sou Arlison Marreiro
 
-- 🔭 Estou buscando experiência profissional
-- 🌱 Estou estudando Python, Selenium, Appium, Postman, Robot Framework e Jmeter
+- 🌱 Selenium, Appium, Postman, Robot Framework, Cypress, Kubernetes, OpenVAS, Jenkins, Gitlab-ci/cd, Jmeter
 
 
    <div style="display: inline_block"><br>
